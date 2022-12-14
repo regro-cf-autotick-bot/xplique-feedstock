@@ -1,5 +1,5 @@
 {% set name = "xplique" %}
-{% set version = "0.4.2" %}
+{% set version = "0.4.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/Xplique-{{ version }}.tar.gz
-  sha256: d3cd6433f77168a22aaa95250b58bc38e31958a7cc593317f2f53afd9ca206a8
+  sha256: 2902d767bece68916fcbaa4f8b4bbade0a6169a7b7f746a22cd973c97375096b
 
 build:
   number: 0
