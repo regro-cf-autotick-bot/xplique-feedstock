@@ -1,11 +1,11 @@
-About xplique
-=============
+About xplique-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xplique-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/Xplique/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xplique-feedstock/blob/main/LICENSE.txt)
 
 Summary: Explanations toolbox for Tensorflow 2
 
